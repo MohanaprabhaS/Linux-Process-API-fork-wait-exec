@@ -99,6 +99,7 @@ int main() {
 ```
 
 ##OUTPUT
+
 ![Screenshot from 2025-04-29 18-51-28](https://github.com/user-attachments/assets/77e7f8d0-44de-4524-8a24-047bc444edd2)
 
 
